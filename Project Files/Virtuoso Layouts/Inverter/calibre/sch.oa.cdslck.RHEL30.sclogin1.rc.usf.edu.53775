@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      josue13
+HostName                       sclogin1.rc.usf.edu
+ProcessIdentifier              53775
+ProcessCreationTime_UTC        1635364420
+ProcessCreationTime_Readable   Wed Oct 27 15:53:40 2021 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/j/josue13/cmosvlsi/Lab6/Inverter/calibre/sch.oa.cdslck
+TimeEditLocked                 Wed Oct 27 16:35:47 2021 EDT

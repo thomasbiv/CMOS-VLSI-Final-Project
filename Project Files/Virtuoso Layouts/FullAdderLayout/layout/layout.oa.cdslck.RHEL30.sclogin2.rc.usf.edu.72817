@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      drmendoza
+HostName                       sclogin2.rc.usf.edu
+ProcessIdentifier              72817
+ProcessCreationTime_UTC        1635444546
+ProcessCreationTime_Readable   Thu Oct 28 14:09:06 2021 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/d/drmendoza/cmosvlsi/Transistor_Scheme/FullAdderLayout/layout/layout.oa.cdslck
+TimeEditLocked                 Thu Oct 28 14:15:30 2021 EDT
