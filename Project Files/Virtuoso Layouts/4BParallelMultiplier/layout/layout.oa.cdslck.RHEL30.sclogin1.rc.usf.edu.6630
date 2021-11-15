@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      thomasbivins
+HostName                       sclogin1.rc.usf.edu
+ProcessIdentifier              6630
+ProcessCreationTime_UTC        1636931805
+ProcessCreationTime_Readable   Sun Nov 14 18:16:45 2021 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/t/thomasbivins/cmosvlsi/finalproj/4BParallelMultiplier/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Sun Nov 14 18:20:49 2021 EST
