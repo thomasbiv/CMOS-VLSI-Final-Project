@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pcook1
+HostName                       sclogin2.rc.usf.edu
+ProcessIdentifier              168311
+ProcessCreationTime_UTC        1637200748
+ProcessCreationTime_Readable   Wed Nov 17 20:59:08 2021 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/p/pcook1/cmosvlsi/Final_Project/16_bit_Shift_Long_With_MUX/layout/layout.oa.cdslck
+TimeEditLocked                 Wed Nov 17 21:01:31 2021 EST
