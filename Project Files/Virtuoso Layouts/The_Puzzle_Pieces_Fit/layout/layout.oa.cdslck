@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pcook1
+HostName                       sclogin1.rc.usf.edu
+ProcessIdentifier              57681
+ProcessCreationTime_UTC        1638757201
+ProcessCreationTime_Readable   Sun Dec  5 21:20:01 2021 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/p/pcook1/cmosvlsi/Final_Project/The_Puzzle_Pieces_Fit/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Dec  5 21:24:51 2021 EST
